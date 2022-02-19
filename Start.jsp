@@ -1,7 +1,6 @@
-<!--<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>-->
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
-<!-- uncomment yellow-->
 <html>
 <head>
 	<meta charset="ISO-8859-1">
@@ -166,7 +165,6 @@
             <input type="password" placeholder="Repeat Password" name="psw-repeat" required style="margin: 5px;">
                   
             <div class="clearfix1">
-              <button type="button" onclick="document.getElementById('id011').style.display='none'" class="cancelbtn1"><i class="material-icons" style="font-size:16px">cancel</i> Cancel</button>
               <button type="submit" class="signupbtn1"><i class="material-icons" style="font-size:16px">person</i> Sign Up</button>
             </div>
           </div>
